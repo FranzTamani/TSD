@@ -1,0 +1,28 @@
+John
+2
+Physics 55
+Chemistry 70
+Dany
+4
+Physics 96
+Chemistry 67
+Maths 88
+Biology 78
+Lilly
+3
+Chemistry 45
+Physics 37
+Maths 61
+Mary
+2
+Biology 98
+Physics 56
+Tyler 
+3
+Chemistry 90
+Physics 80
+Maths 95
+Maddy
+2
+Physics 30
+Chemistry 80
